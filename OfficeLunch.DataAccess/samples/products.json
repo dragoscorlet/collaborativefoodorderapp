@@ -1,0 +1,51 @@
+﻿[
+  {
+    "categories": [
+
+      {
+        "name": "fisheszzz",
+        "products": [
+          {
+            "name": "fish1",
+            "ingredients": [ "egg1", "egg2", "egg3" ],
+            "grams": 300,
+            "price": 10.23
+          }
+        ]
+      }
+
+    ],
+    "schedule": {
+      "Monday": {
+        "opensAt": "10:00 am",
+        "closesAt": "6:00 pm"
+      },
+      "Tuesday": {
+        "opensAt": "10:00 am",
+        "closesAt": "6:00 pm"
+      },
+      "Wednesday": {
+        "opensAt": "10:00 am",
+        "closesAt": "6:00 pm"
+      },
+      "Thursday": {
+        "opensAt": "10:00 am",
+        "closesAt": "6:00 pm"
+      },
+      "Friday": {
+        "opensAt": "10:00 am",
+        "closesAt": "6:00 pm"
+      },
+      "Saturday": {
+        "opensAt": "10:00 am",
+        "closesAt": "6:00 pm"
+      },
+      "Sunday": {
+        "opensAt": "10:00 am",
+        "closesAt": "6:00 pm"
+      }
+    },
+    "adress": "some adress in some city bla bla",
+    "phonenumber": "sdfs"
+  }
+]

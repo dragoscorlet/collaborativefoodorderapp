@@ -1,0 +1,23 @@
+﻿[
+  {
+    "name": "Restaurant 1",
+    "description": "description 1",
+    "imageUrl": "https://images.deliveryhero.io/image/fd-ro/LH/v4yi-listing.jpg?width=400&height=292",
+    "rating": 1
+  },
+
+  {
+    "name": "Restaurant 2",
+    "description": "description 2",
+    "imageUrl": "https://images.deliveryhero.io/image/fd-ro/LH/v4yi-listing.jpg?width=400&height=292",
+    "rating": 1
+  },
+
+  {
+    "name": "Restaurant 3",
+    "description": "description 3",
+    "imageUrl": "https://images.deliveryhero.io/image/fd-ro/LH/v4yi-listing.jpg?width=400&height=292",
+    "rating": 1
+  }
+
+]

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Services\UserService.fs" />
+    <Compile Include="Services\RestaurantService.fs" />
+    <Compile Include="Startup.fs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\OfficeLunch.DataAccess\OfficeLunch.DataAccess.fsproj" />
+    <ProjectReference Include="..\OfficeLunch.Client\OfficeLunch.Client.fsproj" />
+    <PackageReference Include="Bolero.Server" Version="0.9.3-preview*" />
+    <PackageReference Include="Bolero.HotReload.Server" Version="0.9.3-preview*" />
+    <PackageReference Include="FSharp.Data" Version="3.3.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Blazor.Server" Version="3.0-preview8.*" />
+  </ItemGroup>
+</Project>
